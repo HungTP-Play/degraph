@@ -1,1 +1,3 @@
-# degraph
+# Degraph
+
+Dependencies graph visualization tool
